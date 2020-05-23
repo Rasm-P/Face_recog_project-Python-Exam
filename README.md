@@ -7,13 +7,13 @@ Agreeable Government, dat4sem2020spring-python
 - cph-lb269 Lukas Bjørnvad
 
 ### Table of Contents:
-- [Description](https://github.com/Mutestock/face_recog_project#description)
-- [Technologies](https://github.com/Mutestock/face_recog_project#technologies)
-- [Installation](https://github.com/Mutestock/face_recog_project#installation)
-- [Disposition](https://github.com/Mutestock/face_recog_project#disposition)
-- [Training our own neural network](https://github.com/Mutestock/face_recog_project#training-our-own-neural-network)
-- [How to use the framework](https://github.com/Mutestock/face_recog_project#how-to-use-the-framework)
-- [Technologies we would have added if we had more time](https://github.com/Mutestock/face_recog_project#technologies-we-would-have-added-if-we-had-more-time)
+- [Description](https://github.com/Rasm-P/Face_recog_project-Python-Exam#description)
+- [Technologies](https://github.com/Rasm-P/Face_recog_project-Python-Exam#technologies)
+- [Installation](https://github.com/Rasm-P/Face_recog_project-Python-Exam#installation)
+- [Disposition](https://github.com/Rasm-P/Face_recog_project-Python-Exam#disposition)
+- [Training our own neural network](https://github.com/Rasm-P/Face_recog_project-Python-Exam#training-our-own-neural-network)
+- [How to use the framework](https://github.com/Rasm-P/Face_recog_project-Python-Exam#how-to-use-the-framework)
+- [Technologies we would have added if we had more time](https://github.com/Rasm-P/Face_recog_project-Python-Exam#technologies-we-would-have-added-if-we-had-more-time)
 
 # Description
 This framework provides cli commands for facial recognition and tracking functions to detect users based on webcam and other media footage such as people in photos and videos. The framework utilizes stored facial images for the recognition, and it is possible for the user to add more through the tracking feature. The project has a set of cli commands for each main function. The project requires a moderate amount of technical knowledge to operate.
